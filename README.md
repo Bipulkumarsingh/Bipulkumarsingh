@@ -38,8 +38,6 @@
 <br />
 <br />
 
----
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bipulkumarsingh)](https://github.com/Bipulkumarsingh/github-readme-stats)
 
