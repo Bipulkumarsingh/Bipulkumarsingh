@@ -39,7 +39,7 @@
 <br />
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/Bipulkumarsingh/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bipulkumarsingh)](https://github.com/Bipulkumarsingh/github-readme-stats)
 
 [website]: https://www.raxoweb.com
 [twitter]: https://twitter.com/bksinghkashyap
