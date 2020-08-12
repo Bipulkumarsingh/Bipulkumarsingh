@@ -1,6 +1,6 @@
 ### Hi there, I'm Bipul kumar singh - aka Bipul singh kashyap 👋
 
-## I'm a Husband, Father, Developer, and Teacher!
+## I'm a Developer and Teacher!
 - 🔭 I’m currently working on a [GO API CODE][website]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
