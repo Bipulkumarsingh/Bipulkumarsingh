@@ -36,6 +36,11 @@
 
 <img align="left" alt="Bipul kumar singh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Bipulkumarsingh&show_icons=true&hide_border=true" />
 
+<br />
+<br />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/Bipulkumarsingh/github-readme-stats)
+
 [website]: https://www.raxoweb.com
 [twitter]: https://twitter.com/bksinghkashyap
 [youtube]: https://www.youtube.com/channel/UCLn0FX0uXXlRrTEBypnMAHQ
