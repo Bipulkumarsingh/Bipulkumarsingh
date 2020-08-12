@@ -35,10 +35,11 @@
 
 
 <img align="left" alt="Bipul kumar singh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Bipulkumarsingh&show_icons=true&hide_border=true" />
+<br />
+<br />
 
-<br />
-<br />
 ---
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bipulkumarsingh)](https://github.com/Bipulkumarsingh/github-readme-stats)
 
