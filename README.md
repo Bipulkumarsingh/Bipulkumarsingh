@@ -42,7 +42,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bipulkumarsingh)](https://github.com/Bipulkumarsingh/github-readme-stats)
 
 [website]: https://www.sadhutech.com
-[goapi]: https://github.com/Bipulkumarsingh/GoApi
+[AWS]: https://github.com/Bipulkumarsingh/Vegcarts
 [twitter]: https://twitter.com/bksinghkashyap
 [youtube]: https://www.youtube.com/channel/UCLn0FX0uXXlRrTEBypnMAHQ
 [instagram]: https://www.instagram.com/bipulsinghkashyap
