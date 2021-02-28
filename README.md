@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on a [GO API CODE][goapi]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Teach People or college student's How to code through my Bootcamp [Raxoweb][website]
+- 🥅 2020 Goals: Teach People or college student's How to code through my Bootcamp [SadhuTech][website]
 - ⚡ Fun fact: I love to watch Anime
 
 ### Connect with me:
@@ -41,7 +41,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bipulkumarsingh)](https://github.com/Bipulkumarsingh/github-readme-stats)
 
-[website]: https://www.raxoweb.com
+[website]: https://www.sadhutech.com
 [goapi]: https://github.com/Bipulkumarsingh/GoApi
 [twitter]: https://twitter.com/bksinghkashyap
 [youtube]: https://www.youtube.com/channel/UCLn0FX0uXXlRrTEBypnMAHQ
