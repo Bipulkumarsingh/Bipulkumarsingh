@@ -1,7 +1,7 @@
 ### Hi there, I'm Bipul kumar singh - aka Bipul singh kashyap 👋
 
 ## I'm a Developer and Instructor!
-- 🔭 I’m currently working on a [GO API CODE][goapi]!
+- 🔭 I’m currently working on a [AWS Services][aws]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Teach People or college student's How to code through my Bootcamp [SadhuTech][website]
@@ -42,7 +42,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bipulkumarsingh)](https://github.com/Bipulkumarsingh/github-readme-stats)
 
 [website]: https://www.sadhutech.com
-[AWS]: https://github.com/Bipulkumarsingh/Vegcarts
+[aws]: https://github.com/Bipulkumarsingh/Vegcarts
 [twitter]: https://twitter.com/bksinghkashyap
 [youtube]: https://www.youtube.com/channel/UCLn0FX0uXXlRrTEBypnMAHQ
 [instagram]: https://www.instagram.com/bipulsinghkashyap
