@@ -1,10 +1,10 @@
 ### Hi there, I'm Bipul kumar singh - aka Bipul singh kashyap 👋
 
 ## I'm a Developer and Instructor!
-- 🔭 I’m currently working on a [AWS Services][aws]!
+- 🔭 I’m currently working on a Chart Summary!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Teach People or college student's How to code through my Bootcamp [SadhuTech][website]
+- 🥅 This year Goals: Learn new strategy pattern in python
 - ⚡ Fun fact: I love to watch Anime
 
 <h3 align="left">Connect with me:</h3>
@@ -39,10 +39,3 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bipulkumarsingh)](https://github.com/Bipulkumarsingh/github-readme-stats)
 
-[website]: https://www.sadhutech.com
-[aws]: https://github.com/Bipulkumarsingh/Vegcarts
-[twitter]: https://twitter.com/bksinghkashyap
-[youtube]: https://www.youtube.com/channel/UCLn0FX0uXXlRrTEBypnMAHQ
-[instagram]: https://www.instagram.com/bipulsinghkashyap
-[linkedin]: https://www.linkedin.com/in/bipulkrsingh
-[webdevplaylist]: https://www.raxoweb.com/bootcamp
