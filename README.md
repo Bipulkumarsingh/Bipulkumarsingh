@@ -11,7 +11,6 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/bipulkrsingh/" target="blank"><img align="center" src="https://img.shields.io/badge/-BipulKumarSingh-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="https://www.linkedin.com/in/bipulkrsingh/" /></a>
 <a href="mailto:bipulsinghkashyap@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/bipulsinghkashyap@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white" alt="bipulsinghkashyap@gmail.com" /></a>
-<a href="https://stackoverflow.com/users/9477835/bipul-singh-kashyap" target="blank"><img align="center" alt="https://stackoverflow.com/users/9477835/bipul-singh-kashyap" src="https://img.shields.io/stackexchange/stackoverflow/r/14475852?label=StackOverflow&logo=stackoverflow"></a>
 </p>
 
 <br />
