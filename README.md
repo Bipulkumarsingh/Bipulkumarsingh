@@ -7,13 +7,12 @@
 - 🥅 2020 Goals: Teach People or college student's How to code through my Bootcamp [SadhuTech][website]
 - ⚡ Fun fact: I love to watch Anime
 
-### Connect with me:
-
-[<img align="left" alt="raxoweb.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="bipulsingh | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="bipulsingh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="bipulsingh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="bipulsingh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/bipulkrsingh/" target="blank"><img align="center" src="https://img.shields.io/badge/-BipulKumarSingh-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="https://www.linkedin.com/in/bipulkrsingh/" /></a>
+<a href="mailto:bipulsinghkashyap@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/bipulsinghkashyap@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white" alt="bipulsinghkashyap@gmail.com" /></a>
+<a href="https://stackoverflow.com/users/9477835/bipul-singh-kashyap" target="blank"><img align="center" alt="https://stackoverflow.com/users/9477835/bipul-singh-kashyap" src="https://img.shields.io/stackexchange/stackoverflow/r/14475852?label=StackOverflow&logo=stackoverflow"></a>
+</p>
 
 <br />
 
