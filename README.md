@@ -1,10 +1,10 @@
 ### Hi there, I'm Bipul kumar singh - aka Bipul singh kashyap 👋
 
 ## I'm a Developer and Instructor!
-- 🔭 I’m currently working on Python Data Science!
+- 🔭 I’m currently working on Prompt engineering and AI!
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 This year Goals: Learn new strategy pattern in python
+- 👯 I’m looking to collaborate with community and People to discuss AI
+- 🥅 This year Goals: Learn new strategy pattern in GenAI
 - ⚡ Fun fact: I love to watch Anime
 
 
